@@ -1,0 +1,35 @@
+.menu {
+    height: 50px;
+    width: 1890px;
+    background-color:purple;
+
+}
+a{
+    text-decoration: none;
+    color:aliceblue
+
+}
+.cuerpo{
+    width: 1890px;
+    height: 435px;
+    background-color: rgb(255, 185, 255);
+}
+img{
+    margin: 30px;
+}
+.hermano{
+    width: 290px;
+    height: 380px;
+    background: linear-gradient(45deg, purple 30%, rgb(255, 185, 255) 90%);
+    margin-left:10px;
+    margin-right:10px;
+    margin-top: 10px;
+    margin-bottom: 100PX;
+    float: left;
+}
+
+.final{
+    width: 1890px;
+    height: 435px;
+    background-color:rgb(255, 215, 255);
+}
